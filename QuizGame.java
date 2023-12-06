@@ -1,3 +1,5 @@
+//Unit 1 - Create a simple Quiz Game
+
 import java.util.Scanner;
 
 public class QuizGame {
