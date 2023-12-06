@@ -1,5 +1,5 @@
 # Programming I with Java
-Code examples for unit assignments for Programming I with Java
+My instructor code examples for unit assignments in Programming I with Java.
 
 ## Content Listing
 
